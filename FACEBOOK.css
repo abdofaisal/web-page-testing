@@ -61,14 +61,14 @@ input[type="submit"]:hover{
 }
 .pic{
 	margin-left:120px;
-	margin-top:15px;
-    width:45%;
+	margin-top:10px;
+    width:43%;
 	float:left;
 	background-color:#f3f3f3;
 	
 }
 img{
-	width:85%;
+	width:90%;
 	float:left;
 	background-color:#f3f3f3;
 }
@@ -83,10 +83,12 @@ img{
 	font-weight:10;
 }
 .sinup{
-	margin-top:15px;
-	padding-left:5px;
+	margin-top:10px;
+	padding-left:41px;
 	width:45%;
 	float:right;
+	
+	
 }
 .sinup h2{
 font-weight:normal;
@@ -114,21 +116,64 @@ select{
 	height:30px;
 	margin:1px;
 }
-input[type=button]{
+button{
 	width:30%;
-    background-color: #4CAF50;
+    background-color: #419645;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
-    border-radius: 4px;
+    border-radius: 6px;
     cursor: pointer;
-	
+	font-size:26;
+	font-family:Monospace;
 }
+.n{
+	font-size:11px;
+	text-decoration:none;
+}
+
 .footer{
 	background-color:#fff;
-	height:80px;
-	width:100%;
-	margin-bottom:0Px;
+	height:170px;
+	margin-top:690px;
+	padding-top:25px;
+	padding-left:155px;
+	padding-right:155px;
+}
+.login a{
+	text-decoration:none;
+	color:#9fb2da;
+	font-size:13px;
+	margin-top:18px:
+}
+.m{
+	
+	font-size:16;
+}
+.mm{
+	text-decoration:none;
 	
 }
+.nn{
+	font-size:11;
+	
+}
+.sel{
+	width:30%;
+	height:100%;
+	float:left;
+}
+.wor{
+	width:50%;
+	height:100%;
+	float:left;
+}
+.contain{
+	
+	height:48px;
+}
+.wfooter{
+	width:78%;
+}
+
